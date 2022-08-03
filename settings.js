@@ -42,13 +42,13 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 
 global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94722527203']
+global.ownertag = '+94722527203' //ur tag number
+global.botname = '𝘽𝙇𝘼𝘾𝙆 𝙈𝙄𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "𝘽𝙇𝘼𝘾𝙆 𝙈𝙄𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ᴍᴀᴅᴇ ʙʏ ᴄʜᴀᴛʜᴜʀ ]' //In list menu
+global.footer = '[ ᴍᴀᴅᴇ ʙʏ ʙʟᴀᴄᴋ ᴍɪɴ ʙᴏᴛ ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
