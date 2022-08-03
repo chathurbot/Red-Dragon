@@ -51,7 +51,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ᴍᴀᴅᴇ ʙʏ ʙʟᴀᴄᴋ ᴍɪɴ ʙᴏᴛ ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UCrsfpT4jGVrMIOpqv2FfcNQ
 
 //damtabase
 global.premium = ['+94722527203'] //ur premium numbers
